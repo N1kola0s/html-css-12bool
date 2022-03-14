@@ -1,6 +1,25 @@
 
-[class*="col-"] {
+section{
+    margin-bottom: 1rem;
+}
+
+[class^="col"]{
+    background-color: blue;
+    border: 1px solid white;
+    height:80px;
     justify-content:center;
     align-items:center;
     color:white;
+}
+
+
+.col-6.row {
+    padding:1rem;
+}
+
+
+.nested {
+    border:1px solid blue;
+    background-color: #00e165;
+    height:100%;
 }

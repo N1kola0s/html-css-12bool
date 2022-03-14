@@ -4,12 +4,6 @@
     box-sizing:border-box;
 }
 
-.debug [class^="col"]{
-    background-color: blue;
-    border: 1px solid white;
-    height:50px;
-}
-
 
 /* utility */
 
@@ -35,6 +29,20 @@
 .display-1 {
     font-size: 4rem;
 }
+
+/* Utility spaces */
+  
+.p-1 {
+    padding: 1rem;
+  }
+  
+  .p-5 {
+    padding: 5rem;
+  }
+  
+  .mt-3 {
+    margin-top: 3rem;
+  }
 
 
 /* Grid structure */
