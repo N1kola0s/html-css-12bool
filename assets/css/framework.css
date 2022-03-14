@@ -19,11 +19,13 @@
     align-items: center;
 }
 
-.jcont-center:{
+.jcont-center{
     justify-content: center;
 }
 
 /* Typograpy */
+
+
 .text-center {
     text-align: center;
 }
