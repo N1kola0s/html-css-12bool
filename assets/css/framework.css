@@ -34,16 +34,20 @@
   
 .p-1 {
     padding: 1rem;
-  }
+}
   
-  .p-5 {
+.p-5 {
     padding: 5rem;
-  }
+}
   
-  .mt-3 {
+.mt-3 {
     margin-top: 3rem;
-  }
+}
 
+  
+.mb-1 {
+    margin-bottom:1rem;
+}
 
 /* Grid structure */
   

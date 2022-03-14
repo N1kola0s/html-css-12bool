@@ -1,8 +1,4 @@
 
-section{
-    margin-bottom: 1rem;
-}
-
 [class^="col"]{
     background-color: blue;
     border: 1px solid white;
